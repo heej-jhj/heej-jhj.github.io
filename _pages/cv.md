@@ -7,8 +7,7 @@ redirect_from:
   - /resume
   - /cv
 ---
-
-{% include base_path %}
+<br />
 
 Printable .pdfs
 ======
