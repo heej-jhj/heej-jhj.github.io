@@ -146,7 +146,7 @@ exclude:
   - package.json
   - tmp
   - vendor
-  - sitemap.md
+  - "sitemap.md"
 keep_files:
   - .git
   - .svn
