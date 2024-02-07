@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "Resume"
+title: ""
 permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
   - /cv
 ---
-<br />
 
 Printable .pdfs
 ======

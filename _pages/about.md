@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 Overview
 ======
 Graduate in Information Science, interested in Information Security, and Technology. Eagerly seeking opportunities to apply my specialized knowledge on providing creative solutions.
