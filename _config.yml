@@ -123,6 +123,7 @@ include:
   - _pages
   - files
 exclude:
+  - _test
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -146,7 +147,6 @@ exclude:
   - package.json
   - tmp
   - vendor
-  - "sitemap.md"
 keep_files:
   - .git
   - .svn
