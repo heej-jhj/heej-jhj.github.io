@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Graduate in Information Science, interested in Information Security, Technology, and Artificial Intelligence. Eagerly seeking opportunities to apply my specialized knowledge on providing creative solutions.
+Graduate in Information Science, interested in Information Security, and Technology. Eagerly seeking opportunities to apply my specialized knowledge on providing creative solutions.
 
 A data-driven personal website
 ======
