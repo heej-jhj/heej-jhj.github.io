@@ -10,14 +10,15 @@ redirect_from:
 
 Printable .pdfs
 ======
-* Federal ver.
-* Casual ver.
+* [Federal ver.](http://heej-jhj.github.io/files/WTFederalResume.pdf)
+* [Casual ver.](http://heej-jhj.github.io/files/WTCasualResume.pdf)
 
 Education
 ======
-* B.S. in Information Science, San José State University, 2023
+* B.S. in Information Science, 3.88/4.0, Cum Laude
+* San José State University, 2023
 
-Work experience
+Work Experience
 ======
 * Spring 2024: Election Officer
   * San Joaquin County
