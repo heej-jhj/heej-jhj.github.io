@@ -7,8 +7,10 @@ author_profile: true
 
 Page Under Construction
 ======
-Check back in the future for my in depth explanation of the projects I've worked on!
+An in-depth explanation of the projects I've worked on is currently being revised.
 
-For now, a less detailed list of projects I've done can be seen on my resume.
+In the meantime, you can refer to my resume for a more concise list of projects.
+
+Thank you for your patience!
 
 ![](/images/Construction.jpg)
