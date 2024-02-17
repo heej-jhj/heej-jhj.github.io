@@ -8,9 +8,7 @@ redirect_from:
   - /cv
 ---
 
-<br>
-
-Printable Resume .pdfs
+<br />Printable Resume .pdfs
 ======
 ------
 * [Federal Resume ver.](http://heej-jhj.github.io/files/WTFederalResume.pdf)
@@ -56,3 +54,5 @@ Skills
   * C++
   * C#
 * Wireshark
+
+Test23
