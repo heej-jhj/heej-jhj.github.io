@@ -22,6 +22,8 @@ Education
 * B.S. in Information Science, 3.88/4.0, Cum Laude
 * San José State University, 2023
 
+------
+
 Work Experience
 ======
 * Spring 2024: Election Technician
@@ -57,4 +59,3 @@ Skills
   * C++
   * C#
 * Wireshark
-
