@@ -8,7 +8,7 @@ redirect_from:
   - /cv
 ---
 
-<br style="line-height: 10;">
+<br>
 
 Printable Resume .pdfs
 ======
