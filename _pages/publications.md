@@ -5,10 +5,10 @@ permalink: /projects/
 author_profile: true
 ---
 
-Human Centered InfoSec
+Page Under Construction
 ======
-Led an executive presentation on a real life scenario involving an institution's data breach; conducting an in depth analysis of the security incident by identifying vulnerabilities, assessing compliance gaps, and devising effective mitigation strategies. Virtualized a honeypot for the safe collection and analysis of hacker activity.
+Check back in the future for my in depth explanation of the projects I've worked on!
 
-Homelab Applications
-======
-Independently managed a server, focusing on hosting various applications, including a network wide firewall designed to block spam and tracking domains.
+For now, a less detailed list of projects I've done can be seen on my resume.
+
+![](/images/Construction.jpg)
