@@ -1,11 +1,11 @@
 ---
 layout: archive
-#title: "Projects"
+title: ""
 permalink: /projects/
 author_profile: false
 ---
 
-<br />Page Under Construction
+Page Under Construction
 ======
 An in-depth explanation of the projects I've worked on is currently being revised.
 
