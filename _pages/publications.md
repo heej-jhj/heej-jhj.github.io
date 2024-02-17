@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: false
 ---
 
-Page Under Construction
+<br />Page Under Construction
 ======
 An in-depth explanation of the projects I've worked on is currently being revised.
 
