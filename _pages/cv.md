@@ -15,17 +15,15 @@ Printable Resume .pdfs
 * [Federal Resume ver.](http://heej-jhj.github.io/files/WTFederalResume.pdf)
 * [Casual Resume ver.](http://heej-jhj.github.io/files/WTCasualResume.pdf)
 
-<br>
+------
 
 Education
-------
+======
 * B.S. in Information Science, 3.88/4.0, Cum Laude
 * San José State University, 2023
 
-<br>
-
 Work Experience
-------
+======
 * Spring 2024: Election Technician
   * County of San Joaquin
   * Provided entry level support in the testing, implementation, and maintenance of various election voting equipment and voting system procedures. Operated on equipment used for election processing and performed routing tasks in the preparation of materials. Directed the filing and processing of election related documents for voters.
@@ -39,19 +37,19 @@ Work Experience
   * Offered technical assistance to clients experiencing technical issues with laptops, printers, desktops, and networks. Conducted the installation of software, drivers, and updates to ensure security. Following up and resolving with customers in a timely matter.
   * Helped customers troubleshoot to better understand their computer issues and performed diagnostics, removing malware, installing anti-virus software, and repairing the operating system.
 
-<br>
+------
 
 Certifications
-------
+======
 * Certificate of Cloud Security Knowledge (CCSK) (2024)
 * Google Cybersecurity Certificate (2023)
 * AWS Certified Cloud Practitioner (2022)
 * A+ (Plus) Certification (2020)
 
-<br>
+------
 
 Skills
-------
+======
 * PC Consulting & Repair
 * Desktop Support
 * Programming Languages
