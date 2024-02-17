@@ -13,4 +13,8 @@ In the meantime, you can refer to my resume for a more concise list of projects.
 
 Thank you for your patience!
 
+
+
 ![](/images/Construction.jpg)
+
+
