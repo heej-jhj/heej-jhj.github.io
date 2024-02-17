@@ -2,7 +2,7 @@
 layout: archive
 title: ""
 permalink: /interests/
-author_profile: false
+author_profile: true
 ---
 
 Test  Title
