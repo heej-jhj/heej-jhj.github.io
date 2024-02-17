@@ -19,7 +19,6 @@ Education
 ------
 * B.S. in Information Science, 3.88/4.0, Cum Laude
 * San José State University, 2023
-<br>
 
 Work Experience
 ======
@@ -36,7 +35,6 @@ Work Experience
   * 1099 Independent
   * Offered technical assistance to clients experiencing technical issues with laptops, printers, desktops, and networks. Conducted the installation of software, drivers, and updates to ensure security. Following up and resolving with customers in a timely matter.
   * Helped customers troubleshoot to better understand their computer issues and performed diagnostics, removing malware, installing anti-virus software, and repairing the operating system.
-<br>
 
 Certifications
 ======
@@ -45,7 +43,6 @@ Certifications
 * Google Cybersecurity Certificate (2023)
 * AWS Certified Cloud Practitioner (2022)
 * A+ (Plus) Certification (2020)
-<br>
 
 Skills
 ======
@@ -57,5 +54,3 @@ Skills
   * C++
   * C#
 * Wireshark
-
-Test12
