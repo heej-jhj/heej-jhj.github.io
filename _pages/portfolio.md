@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 ------
-Maybe I wasn't theeeere
+Maybe
 * Test1.
 
 
-<br>interested in investigative work
+<br>Interested in investigative work
 ======
 ------
 
