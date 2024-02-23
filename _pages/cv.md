@@ -8,9 +8,8 @@ redirect_from:
   - /cv
 ---
 
-<br>Printable Resume .pdfs
-======
 ------
+Printable .pdfs
 * [Federal Resume ver.](http://heej-jhj.github.io/files/WTFederalResume.pdf)
 * [Casual Resume ver.](http://heej-jhj.github.io/files/WTCasualResume.pdf)
 
