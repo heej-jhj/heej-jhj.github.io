@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 ------
-Printable .pdfs
-
 Below is my resume in two different formats. If the embedded PDFs do not load, you can download them here.
 * [Federal Resume ver.](http://heej-jhj.github.io/files/WTFederalResume.pdf)
 * [Casual Resume ver.](http://heej-jhj.github.io/files/WTCasualResume.pdf)
@@ -18,9 +16,7 @@ Below is my resume in two different formats. If the embedded PDFs do not load, y
 <br>
 
 **Federal Resume Version**
-<object data="/files/WTCasualResume.pdf" width="1000" height="1000" type='application/pdf'></object>
-
-<br>
+<object data="/files/WTFederalResume.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 **Casual Resume Version**
-[Casual Resume ver.](http://heej-jhj.github.io/files/WTCasualResume.pdf)
+<object data="/files/WTCasualResume.pdf" width="1000" height="1000" type='application/pdf'></object>
