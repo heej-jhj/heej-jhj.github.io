@@ -13,6 +13,10 @@ Printable .pdfs
 * [Federal Resume ver.](http://heej-jhj.github.io/files/WTFederalResume.pdf)
 * [Casual Resume ver.](http://heej-jhj.github.io/files/WTCasualResume.pdf)
 
+<button type="button" class="btn btn-primary">[Federal Resume ver.](http://heej-jhj.github.io/files/WTFederalResume.pdf)</button>
+<br>
+<button type="button" class="btn btn-primary">[Casual Resume ver.](http://heej-jhj.github.io/files/WTCasualResume.pdf)</button>
+
 <br>Education
 ======
 ------
