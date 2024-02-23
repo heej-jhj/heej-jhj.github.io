@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Graduate in Information Science, interested in Information Security, and Technology. Eagerly seeking opportunities to apply my specialized knowledge on providing creative solutions.
-
 ------
+Graduate in Information Science, interested in Information Security, and Technology. Eagerly seeking opportunities to apply my specialized knowledge on providing creative solutions.
 
 <br>Overview
 ======
@@ -31,7 +30,7 @@ While I continue my job search ofr 2024, I plan on working on several things.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right.
-2. Update
+2. Update 2
 
 
 
