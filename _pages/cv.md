@@ -13,7 +13,7 @@ Printable .pdfs
 * [Federal Resume ver.](http://heej-jhj.github.io/files/WTFederalResume.pdf)
 * [Casual Resume ver.](http://heej-jhj.github.io/files/WTCasualResume.pdf)
 
-Education
+<br>Education
 ======
 ------
 * B.S. in Information Science, 3.88/4.0, Cum Laude
