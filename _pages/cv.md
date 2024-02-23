@@ -5,7 +5,6 @@ permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
-  - /resume/
   - /cv
   - /cv/
 ---

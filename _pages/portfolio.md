@@ -4,6 +4,7 @@ title: "Expressions"
 permalink: /expressions/
 author_profile: true
 redirect_from:
+  - /expressions
   - /interests
   - /interests/
 ---
