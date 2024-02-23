@@ -8,7 +8,7 @@ redirect_from:
   - /cv
 ---
 
-<br />Printable Resume .pdfs
+<br>Printable Resume .pdfs
 ======
 ------
 * [Federal Resume ver.](http://heej-jhj.github.io/files/WTFederalResume.pdf)
@@ -20,7 +20,7 @@ Education
 * B.S. in Information Science, 3.88/4.0, Cum Laude
 * San José State University, 2023
 
-Work Experience
+<br>Work Experience
 ======
 ------
 * Spring 2024: Election Technician
@@ -36,7 +36,7 @@ Work Experience
   * Offered technical assistance to clients experiencing technical issues with laptops, printers, desktops, and networks. Conducted the installation of software, drivers, and updates to ensure security. Following up and resolving with customers in a timely matter.
   * Helped customers troubleshoot to better understand their computer issues and performed diagnostics, removing malware, installing anti-virus software, and repairing the operating system.
 
-Certifications
+<br>Certifications
 ======
 ------
 * Certificate of Cloud Security Knowledge (CCSK) (2024)
@@ -44,7 +44,7 @@ Certifications
 * AWS Certified Cloud Practitioner (2022)
 * A+ (Plus) Certification (2020)
 
-Skills
+<br>Skills
 ======
 ------
 * PC Consulting & Repair
