@@ -15,8 +15,8 @@ Below is my resume in two different formats. If the embedded PDFs do not load, y
 
 <br>
 
-**Federal Resume Version**
+**Federal Resume PDF Embed**
 <object data="/files/WTFederalResume.pdf" width="1000" height="1000" type='application/pdf'></object>
 
-**Casual Resume Version**
+**Casual Resume PDF Embed**
 <object data="/files/WTCasualResume.pdf" width="1000" height="1000" type='application/pdf'></object>
