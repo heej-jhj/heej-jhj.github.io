@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume"
+title: ""
 permalink: /resume/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
   - /cv
 ---
 
+Resume2
+======
 ------
 Printable .pdfs
 * [Federal Resume ver.](http://heej-jhj.github.io/files/WTFederalResume.pdf)
