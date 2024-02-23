@@ -1,17 +1,18 @@
 ---
 layout: archive
-title: "Interests"
-permalink: /interests/
+title: "Expressions"
+permalink: /expressions/
 author_profile: true
+redirect_from:
+  - /interests
 ---
 
 ------
-Maybe
-* Test1.
+This section is dedicated to my various interests and hobbies I've picked up throughout my life.
 
 
-<br>Interested in investigative work
+<br>Game Development
 ======
 ------
-
-* Test2.
+Take me back to the days of the sun.
+* Test3
