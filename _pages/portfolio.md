@@ -5,6 +5,7 @@ permalink: /expressions/
 author_profile: true
 redirect_from:
   - /interests
+  - /interests/
 ---
 
 ------
