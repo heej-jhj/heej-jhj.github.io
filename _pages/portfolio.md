@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: ""
+title: "Interests"
 permalink: /interests/
 author_profile: true
 ---
 
-Interest2
-======
 ------
 Maybe I wasn't theeeere
 * Test1.
