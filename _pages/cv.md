@@ -12,10 +12,10 @@ redirect_from:
 ------
 Below is my resume in two different formats. If the embedded PDFs do not load, you can use the download link.
 
-**Federal Resume Embed - [Download Link](http://heej-jhj.github.io/files/WTFederalResume.pdf)**
-<object data="/files/WTFederalResume.pdf" width="1000" height="1000" type='application/pdf'></object>
+**Federal Resume Embed - [Download Link](http://heej-jhj.github.io/files/tran-cv-federal.pdf)**
+<object data="/files/tran-cv-federal.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 <br>
 
-**Casual Resume Embed - [Download Link](http://heej-jhj.github.io/files/TempWTCasualResume.pdf)**
-<object data="/files/TempWTCasualResume.pdf" width="1000" height="1000" type='application/pdf'></object>
+**Casual Resume Embed - [Download Link](http://heej-jhj.github.io/files/tran-cv-casual.pdf)**
+<object data="/files/tran-cv-casual.pdf" width="1000" height="1000" type='application/pdf'></object>
