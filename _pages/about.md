@@ -16,27 +16,45 @@ About
 ------
 Graduate in Information Science, interested in Information Security, and Technology. Eagerly seeking opportunities to apply my specialized knowledge on providing creative solutions.
 
-<br>Overview
-======
-------
-I'm someone who learns best through action and experience. Overtime I like to refine what I do to be more efficient.
+[//]: # ()
+[//]: # (<br>Overview)
 
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+[//]: # (======)
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+[//]: # (------)
 
-<br>Plans
-======
-------
-While I continue my job search ofr 2024, I plan on working on several things.
-1. Finish election work for SJC in early March 2024.
-1. Finsih CompTIA Security+ cert. Continue working on several long certifications such as the CISSP, Blue Team
-1. Fixing 
+[//]: # (I'm someone who learns best through action and experience. Overtime I like to refine what I do to be more efficient.)
 
+[//]: # ()
+[//]: # (Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown &#40;.md&#41;, YAML &#40;.yml&#41;, HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages]&#40;https://pages.github.com/&#41; service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.)
 
+[//]: # ()
+[//]: # (Many of the features of dynamic content management systems &#40;like Wordpress&#41; can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one]&#40;https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb&#41; that analyzes metadata in pages about talks to display [a map of every location you've given a talk]&#40;https://academicpages.github.io/talkmap.html&#41;.)
 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right.
-2. Update 2
+[//]: # ()
+[//]: # (<br>Plans)
+
+[//]: # (======)
+
+[//]: # (------)
+
+[//]: # (While I continue my job search ofr 2024, I plan on working on several things.)
+
+[//]: # (1. Finish election work for SJC in early March 2024.)
+
+[//]: # (1. Finsih CompTIA Security+ cert. Continue working on several long certifications such as the CISSP, Blue Team)
+
+[//]: # (1. Fixing )
+
+[//]: # ()
+[//]: # ()
+[//]: # ()
+[//]: # (1. Go to the repository's settings &#40;rightmost item in the tabs that start with "Code", should be below "Unwatch"&#41;. Rename the repository "[your GitHub username].github.io", which will also be your website's URL.)
+
+[//]: # (1. Set site-wide configuration and create content & metadata &#40;see below -- also see [this set of diffs]&#40;http://archive.is/3TPas&#41; showing what files were changed to set up [an example site]&#40;https://getorg-testacct.github.io&#41; for a user with the username "getorg-testacct"&#41;)
+
+[//]: # (1. Upload any files &#40;like PDFs, .zip files, etc.&#41; to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  )
+
+[//]: # (1. Fork [this repository]&#40;https://github.com/academicpages/academicpages.github.io&#41; by clicking the "fork" button in the top right.)
+
+[//]: # (2. Update 2)

@@ -9,12 +9,30 @@ redirect_from:
   - /interests/
 ---
 
-------
-This section is dedicated to my various interests and hobbies I've picked up throughout my life.
-
-
-<br>Game Development
+Page Under Construction
 ======
-------
-Take me back to the days of the sun.
-* Test3
+
+Thank you for your patience!
+
+
+
+![](/images/Construction.jpg)
+
+
+
+
+[//]: # (------)
+
+[//]: # (This section is dedicated to my various interests and hobbies I've picked up throughout my life.)
+
+[//]: # ()
+[//]: # ()
+[//]: # (<br>Game Development)
+
+[//]: # (======)
+
+[//]: # (------)
+
+[//]: # (Take me back to the days of the sun.)
+
+[//]: # (* Test3)
