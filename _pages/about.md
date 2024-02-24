@@ -49,12 +49,3 @@ Graduate in Information Science, interested in Information Security, and Technol
 [//]: # ()
 [//]: # ()
 [//]: # ()
-[//]: # (1. Go to the repository's settings &#40;rightmost item in the tabs that start with "Code", should be below "Unwatch"&#41;. Rename the repository "[your GitHub username].github.io", which will also be your website's URL.)
-
-[//]: # (1. Set site-wide configuration and create content & metadata &#40;see below -- also see [this set of diffs]&#40;http://archive.is/3TPas&#41; showing what files were changed to set up [an example site]&#40;https://getorg-testacct.github.io&#41; for a user with the username "getorg-testacct"&#41;)
-
-[//]: # (1. Upload any files &#40;like PDFs, .zip files, etc.&#41; to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  )
-
-[//]: # (1. Fork [this repository]&#40;https://github.com/academicpages/academicpages.github.io&#41; by clicking the "fork" button in the top right.)
-
-[//]: # (2. Update 2)

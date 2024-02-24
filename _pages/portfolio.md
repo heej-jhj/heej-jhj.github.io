@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Expressions"
+title: ""
 permalink: /expressions/
-author_profile: true
+author_profile: false
 redirect_from:
   - /expressions
   - /interests
@@ -11,10 +11,6 @@ redirect_from:
 
 Page Under Construction
 ======
-
-Thank you for your patience!
-
-
 
 ![](/images/Construction.jpg)
 
