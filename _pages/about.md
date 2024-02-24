@@ -14,7 +14,7 @@ redirect_from:
 About
 ======
 ------
-Graduate in Information Science, interested in Information Security, and Technology. Eagerly seeking opportunities to apply my specialized knowledge on providing creative solutions.
+Information Science graduate passionate about Information Security and Technology, actively seeking opportunities to apply specialized knowledge in crafting innovative solutions.
 
 [//]: # ()
 [//]: # (<br>Overview)
