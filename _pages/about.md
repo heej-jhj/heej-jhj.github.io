@@ -10,7 +10,3 @@ redirect_from:
   - /home
   - /home/
 ---
-
-About
-======
-------
