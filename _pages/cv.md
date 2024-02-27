@@ -7,6 +7,7 @@ redirect_from:
   - /resume
   - /cv
   - /cv/
+  - /images/profile.png
 ---
 
 ------
