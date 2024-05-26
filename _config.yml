@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "William Tran"
+title                    : ""
 title_separator          : "-"
 name                     : &name "William Tran"
 description              : &description ""
