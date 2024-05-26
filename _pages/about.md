@@ -9,10 +9,8 @@ redirect_from:
   - /about.html
   - /home
   - /home/
+redirect_to:
+  - https://williamjintran.com/resume/
 ---
 
 ------
-If the embedded PDF does not load, you can use the download link.
-
-**Resume Embed ❖ [Download Link](http://heej-jhj.github.io/files/tran-cv.pdf)**
-<object data="/files/tran-cv-d.pdf" width="800" height="1000" type='application/pdf'></object>

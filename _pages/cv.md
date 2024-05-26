@@ -8,6 +8,7 @@ redirect_from:
   - /cv
   - /cv/
   - /images/profile.png
+  - /
 ---
 
 ------
