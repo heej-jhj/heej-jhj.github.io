@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Test1"
 title_separator          : "-"
-name                     : &name "William Tran"
+name                     : &name "Test2"
 description              : &description ""
 url                      : https://williamjintran.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
