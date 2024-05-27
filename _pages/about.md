@@ -16,7 +16,7 @@ Hi! I’m William, a cybersecurity analyst with a degree in Information Science 
 I have long focused on the role of security in information science and technology, but I also care about issues like governance, privacy, and accountability in the ever-changing world of AI technologies.
 
 I have various interests in information security, data analytics, computer forensics, cloud computing, and artificial intelligence.
-As a recent graduate entering the workforce, my goal is to contribute positively to these fields, continuously learn, and develop my skills. I am passionate about being someone who can offer guidance and support in these areas.
+As a recent graduate entering the workforce, my goal is to contribute positively to these fields, continuously learn, and develop my skills. I'm striving to become someone who can offer guidance and support in these areas.
 
 ## My Background & History
 I am a cybersecurity analyst with a broad background in data analytics.
