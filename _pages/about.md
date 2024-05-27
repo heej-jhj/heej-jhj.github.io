@@ -25,7 +25,7 @@ I'd like to say that I possess enough educational knowledge to quickly adapt to 
 Currently, I'm pivoting towards AI and data analytics within the cloud and have begun studying issues such as security, transparency, and regulation.
 
 The previous jobs I've taken were ones I believed would benefit the community, while also providing valuable experience as a bonus. 
-I started as an associate for Amazon, addressing customer orders, and later transitioned into an entry-level technical support role with the County of San Joaquin.
+I started as a customer service associate for Amazon, correcting customer orders, and later transitioned into an entry-level technical support role with the County of San Joaquin.
 
 
 
