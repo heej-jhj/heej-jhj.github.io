@@ -33,3 +33,4 @@ My interests include computer building, game development, and cloud computing.
 I spend a lot of my time in technology, whether it's setting up servers, assembling PCs, or keeping up with the latest tools. 
 There's always more to learn, and my hobbies keep me busy.
 
+![](/files/Animation.gif)
