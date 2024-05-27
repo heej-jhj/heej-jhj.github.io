@@ -30,7 +30,7 @@ I started as an associate for Amazon, addressing customer orders, and later tran
 
 
 ## My Creative Side
-My interests include computer building, game development, and cloud computing. 
+My interests include game development, PC building, and cloud computing. 
 I spend a lot of my time in technology, whether it's setting up servers, assembling PCs, or keeping up with the latest tools.
 There's always more to learn, whether it's to make things look better or run faster, it's how I keep myself busy.
 
