@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
   - /home/
 ---
 
-------
+## About
 Hi! I’m William, a cybersecurity analyst with a degree in Information Science from San Jose State University.
 I have long focused on the role of security in information science and technology, but I also care about issues like governance, privacy, and accountability in the ever-changing world of AI technologies.
 
